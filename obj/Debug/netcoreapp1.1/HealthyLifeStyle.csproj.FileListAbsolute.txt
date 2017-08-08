@@ -1,0 +1,6 @@
+c:\users\cristi\documents\visual studio 2017\Projects\HealthyLifeStyle\HealthyLifeStyle\bin\Debug\netcoreapp1.1\HealthyLifeStyle.deps.json
+c:\users\cristi\documents\visual studio 2017\Projects\HealthyLifeStyle\HealthyLifeStyle\bin\Debug\netcoreapp1.1\HealthyLifeStyle.runtimeconfig.json
+c:\users\cristi\documents\visual studio 2017\Projects\HealthyLifeStyle\HealthyLifeStyle\bin\Debug\netcoreapp1.1\HealthyLifeStyle.runtimeconfig.dev.json
+c:\users\cristi\documents\visual studio 2017\Projects\HealthyLifeStyle\HealthyLifeStyle\bin\Debug\netcoreapp1.1\HealthyLifeStyle.dll
+c:\users\cristi\documents\visual studio 2017\Projects\HealthyLifeStyle\HealthyLifeStyle\obj\Debug\netcoreapp1.1\HealthyLifeStyle.csprojResolveAssemblyReference.cache
+c:\users\cristi\documents\visual studio 2017\Projects\HealthyLifeStyle\HealthyLifeStyle\obj\Debug\netcoreapp1.1\HealthyLifeStyle.AssemblyInfo.cs
